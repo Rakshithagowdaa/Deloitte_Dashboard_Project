@@ -1,4 +1,4 @@
-# Deloitte Australia – Data Analytics Project
+# FactoryPulse Analytics
 
 **Analyzed factory telemetry and employee compensation data to generate actionable business insights using Tableau and Excel.**
 
